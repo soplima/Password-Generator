@@ -20,7 +20,7 @@ uppercase and lowercase letters, digits, and punctuation
 The user can specify the length of the password. 
 The program generates a password of the specified length by randomly selecting characters from the allowed character set.
 
-#Example
+# Example
 Enter password length: 12
 Enter password complexity (weak/strong): strong
 Your password is: X9sP#8?lRcYe
