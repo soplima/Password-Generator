@@ -10,7 +10,7 @@ Usage:
 3. Follow the prompts to specify the desired password length and complexity.
 4. The program will generate and display the password on the screen.
 
-Functionality
+Functionality:
 The program generates a random password by selecting characters from a set of allowed characters based on the user-specified complexity. The allowed character sets are as follows:
 
 weak complexity: 
